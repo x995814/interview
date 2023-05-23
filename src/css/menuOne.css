@@ -1,0 +1,7 @@
+.one-box{
+    display: flex;
+    justify-content: space-between;
+}
+.one-btn Button{
+    margin-right: 0.625rem;
+}

@@ -1,0 +1,9 @@
+.ant-layout {
+  min-height: 100%;
+}
+.demo-logo-vertical{
+    padding: 1.25rem;
+    margin: 0.625rem;
+    border-radius: 0.625rem;
+    background-color: #ccc;
+}
